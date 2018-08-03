@@ -1,0 +1,6 @@
+rootProject.name = 'ServiceProject'
+include 'sortutil'
+include 'app'
+include 'bubblesort'
+include 'javasort'
+
